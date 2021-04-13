@@ -12,7 +12,11 @@ The implementation here presented is simillar to that of [AKASHKADEL](https://gi
         <th>Learning Curves</th>
     </tr>
     <tr>
-        <td><img src="./Results/DCGAN/dcgan_train.png"></td>
         <td><img src="./Results/DCGAN/Final.png"></td>
+        <td><img src="./Results/DCGAN/dcgan_train.png"></td>
     </tr>
 </table> 
+
+Generated samples by epoch:
+
+<img src="./Results/DCGAN/dcgan.gif">
