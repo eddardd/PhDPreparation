@@ -9,10 +9,10 @@ The implementation here presented is simillar to that of [AKASHKADEL](https://gi
  <table>
     <tr>
         <th>Generated Samples</th>
-        <td><img src="./Results/DCGAN/dcgan_train.png"></td>
+        <th>Learning Curves</th>
     </tr>
     <tr>
-        <td>Learning Curves</td>
+        <td><img src="./Results/DCGAN/dcgan_train.png"></td>
         <td><img src="./Results/DCGAN/Final.png"></td>
     </tr>
 </table> 
